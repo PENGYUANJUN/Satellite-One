@@ -9,6 +9,18 @@
 用于商业行为请联系开发者是否同意用于商业行为（以牟利为目的贩卖，传播，复制）包括以上三点且不局限于以上三点。
 注意！！本产品未授权给任何组织或个人进行销售，如有授权会在此公示，本工作室拒绝对其他渠道购买的产品提供售后以及技术支持。
 
+V1.0
+修复了前辈们手摇发电edc小灯不能防水的缺陷
+修复了手摇发电电压峰峰值太高导致的led灯逻辑芯片微微亮（电压瞬间高导致逻辑混乱）的问题
+
+继承了锁锁手工坊小巧设计的外观（自己模仿设计并优化了外观）
+相关连接：https://www.bilibili.com/video/BV1hS411w7Vw/?spm_id_from=333.788.videopod.sections&vd_source=6bbbb1eef4f783ffaeecd597495d1226
+
+继承了悟理研究所的发电指示灯电路
+相关连接：https://www.bilibili.com/video/BV1YztrevE3B/?spm_id_from=333.337.search-card.all.click&vd_source=6bbbb1eef4f783ffaeecd597495d1226
+
+
+
 合作伙伴：
 
 耻辱柱（未经过同意随便贩卖的包括不限于各大电商平台）：
